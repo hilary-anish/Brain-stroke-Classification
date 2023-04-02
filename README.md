@@ -1,26 +1,37 @@
-### Brain-stroke-Classification
-
-This is a Classification dataset from Kaggle
+<h2> Brain-stroke-Classification </h2>
 
 
-Target Variabe : Brain stroke
+<b>Target:</b> Model to classify a possible Brain-stroke occurrence
 
-Features : Age
-           Gender
-           Hyper-tension 
-           Heart disease 
-           ever-married 
-           work type
-           residence area
-           Average glucose level
-           BMI
-           Smoking status
-           
+<b>Features :</b> 
+<ul>
+          <li> Age</li>
+           <li>Gender</li>
+           <li>Hyper-tension</li> 
+           <li>Heart disease</li> 
+           <li>ever-married </li>
+           <li>work type</li>
+           <li>residence area</li>
+           <li>Average glucose level</li>
+           <li>BMI</li>
+           <li>Smoking status</li>
+ </ul>
 
-The objective of this project is to:
+<h4>Project Objective: </h4>
+<ol>
+<li>Data cleaning</li>
+<li>Data Engineering</li>
+<li>Data Visualisation</li>
+<li>Models to Predcit Brain-stroke based on the above factors</li>
+<li>Comparing the performance of various classification Models</li>
+</ol>
 
-1. Predict if a person might be affected due to Brain Stroke based on the above features
 
-2. Various Analysis of the data to visulaize graphically using seaborn library
-
-3. Performance of various Classification Models
+<h4>Important Python Libraries:</h4>
+<ul>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
+<li>Sci-kit learn</li>
+</ul>
